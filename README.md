@@ -1,6 +1,2 @@
-<h1 align="center">Hi 👋, I'm G Naveen Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+A machine learning project where I predicted whether the shopper has purchased the product or not based on
+many features like HomePage, HomePage_Duration, ProductDesription-Page, GoogleMetricPageValue, SeasonalPurchase, etc. It was a supervised (classification) problem.
